@@ -1,2 +1,2 @@
 # Music-App
-This music App is created as a part of Kotlin Fundamentals Course.
+Este es una APP desarrollada en AndroidSudio y kotlin equipo 12
